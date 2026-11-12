@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Demo deployed using [Netlify](https://github.com/netlify).
 
 Only one page is made, only frontend no backend.
 
